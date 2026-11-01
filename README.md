@@ -1,8 +1,6 @@
 <div align="center">
   <img src="docs/logo.png" alt="Sol — marca oficial" width="142" />
 
-  # Sol
-
   **Ferramentas de produtividade para suporte técnico.**
 
   Aplicativos Windows para simplificar tarefas operacionais, organizar informações e reduzir trabalho repetitivo.
