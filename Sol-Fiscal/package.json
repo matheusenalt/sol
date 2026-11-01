@@ -1,0 +1,38 @@
+{
+  "name": "sol-fiscal",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "test:core": "tsc -p tsconfig.core.json && node --experimental-specifier-resolution=node tests/core.test.mjs && node --experimental-specifier-resolution=node tests/catalog.test.mjs && node --experimental-specifier-resolution=node tests/cest.test.mjs && tsc -p tsconfig.imports-test.json && node tests/pdf-parser.test.mjs && tsc -p tsconfig.export-test.json && node tests/export.test.mjs && node tests/cervantes-pdf.test.mjs && node tests/ncm-description.test.mjs",
+    "desktop:dev": "tauri dev",
+    "desktop:compile": "tauri build --no-bundle",
+    "desktop:build": "tauri build"
+  },
+  "dependencies": {
+    "@tauri-apps/api": "2.12.1",
+    "jspdf": "4.2.1",
+    "react": "19.1.1",
+    "react-dom": "19.1.1",
+    "xlsx": "0.18.5",
+    "pdfjs-dist": "^4.10.38",
+    "@tauri-apps/plugin-dialog": "2"
+  },
+  "devDependencies": {
+    "@tauri-apps/cli": "2.12.1",
+    "@types/react": "19.1.10",
+    "@types/react-dom": "19.1.7",
+    "@vitejs/plugin-react": "4.7.0",
+    "typescript": "5.8.3",
+    "vite": "7.1.5"
+  },
+  "overrides": {
+    "esbuild": "0.25.12"
+  },
+  "allowScripts": {
+    "esbuild@0.25.12": true,
+    "core-js@3.50.0": true
+  }
+}

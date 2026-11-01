@@ -1,0 +1,10 @@
+{
+  "product": "sol-fiscal",
+  "repository": "matheusenalt/sol",
+  "enabled": false,
+  "version": "1.0.0",
+  "tag": "fiscal-v1.0.0",
+  "asset": "Sol-Fiscal-Setup-1.0.0.exe",
+  "sha256": "6a80454c34da9b11120325e22ff94c0848e0c1acc5735eb5a10912861d033756",
+  "notes": "Versão inicial pública do Sol Fiscal. Correções de compilação no Windows e recursos de revisão fiscal."
+}

@@ -1,0 +1,125 @@
+{
+  "metadata": {
+    "nome": "Tabela de Classificação Tributária do IBS e CBS",
+    "versaoReferencia": "IT 2025.002 v1.70 (recorte local)",
+    "publicacao": "2026-10-01",
+    "fonte": "Portal Nacional da NF-e / SVRS",
+    "observacao": "Recorte local de contingência da tabela oficial conhecida. Não representa sozinho a tabela completa; o índice operacional do motor também é enriquecido pelo catálogo fiscal embarcado."
+  },
+  "items": [
+    {
+      "cst": "200",
+      "cClassTrib": "200022",
+      "descricao": "Operação originada fora da Zona Franca de Manaus que destine bem material industrializado de origem nacional a contribuinte estabelecido na Zona Franca de Manaus habilitado, conforme regras aplicáveis.",
+      "dfe": "NFE",
+      "fonte": "SVRS"
+    },
+    {
+      "cst": "400",
+      "cClassTrib": "400002",
+      "descricao": "Fornecimento de serviços de transporte público coletivo de passageiros rodoviário e metroviário com medição por quilômetro rodado.",
+      "dfe": "CTEOS",
+      "fonte": "SVRS"
+    },
+    {
+      "cst": "410",
+      "cClassTrib": "410001",
+      "descricao": "Fornecimento de bonificações quando constem no documento fiscal e não dependam de evento posterior.",
+      "dfe": "BPE, BPETA, CTE, CTEOS, NF3E, NFABI, NFAG, NFCE, NFCOM, NFE, NFSE, NFGAS, DUIMP",
+      "fonte": "SVRS"
+    },
+    {
+      "cst": "410",
+      "cClassTrib": "410002",
+      "descricao": "Transferências entre estabelecimentos pertencentes ao mesmo contribuinte.",
+      "dfe": "NFE",
+      "fonte": "SVRS"
+    },
+    {
+      "cst": "410",
+      "cClassTrib": "410003",
+      "descricao": "Doações sem contraprestação em benefício do doador.",
+      "dfe": "BPE, BPETA, CTE, CTEOS, NF3E, NFABI, NFAG, NFCE, NFCOM, NFE, NFSE, NFGAS, DERE, DUIMP",
+      "fonte": "SVRS"
+    },
+    {
+      "cst": "410",
+      "cClassTrib": "410004",
+      "descricao": "Exportações de bens e serviços.",
+      "dfe": "BPE, BPETA, CTE, CTEOS, NF3E, NFCOM, NFE, NFSE",
+      "fonte": "SVRS"
+    },
+    {
+      "cst": "000",
+      "cClassTrib": "000006",
+      "descricao": "Situações tributadas integralmente pelo IBS e CBS realizadas por profissional autônomo.",
+      "dfe": "NFSE",
+      "fundamento": "IT 2025.002 v1.70",
+      "fonte": "Portal NF-e / SVRS"
+    },
+    {
+      "cst": "200",
+      "cClassTrib": "200055",
+      "descricao": "Fornecimento de serviços com redução de alíquota de 60% realizado por profissional autônomo.",
+      "dfe": "NFSE",
+      "fundamento": "Art. 128 da LC 214/2025",
+      "fonte": "Portal NF-e / SVRS"
+    },
+    {
+      "cst": "200",
+      "cClassTrib": "200056",
+      "descricao": "Fornecimento de serviços com redução de alíquota de 30% realizado por profissional autônomo.",
+      "dfe": "NFSE",
+      "fundamento": "Art. 127 da LC 214/2025",
+      "fonte": "Portal NF-e / SVRS"
+    },
+    {
+      "cst": "400",
+      "cClassTrib": "400003",
+      "descricao": "Importação de bens materiais caracterizados como bagagem.",
+      "dfe": "DUIMP",
+      "fundamento": "Art. 94, I, da LC 214/2025",
+      "fonte": "Portal NF-e / SVRS"
+    },
+    {
+      "cst": "400",
+      "cClassTrib": "400004",
+      "descricao": "Importação de bens materiais por remessa internacional.",
+      "dfe": "DUIMP",
+      "fundamento": "Art. 94, II, da LC 214/2025",
+      "fonte": "Portal NF-e / SVRS"
+    },
+    {
+      "cst": "550",
+      "cClassTrib": "550026",
+      "descricao": "Regime de admissão temporária com suspensão integral aplicável à Zona Franca de Manaus.",
+      "dfe": "DUIMP",
+      "fundamento": "Art. 89, § 3º, II, da LC 214/2025",
+      "fonte": "Portal NF-e / SVRS"
+    },
+    {
+      "cst": "550",
+      "cClassTrib": "550027",
+      "descricao": "Regime aduaneiro especial de drawback com suspensão.",
+      "dfe": "DUIMP",
+      "fundamento": "Art. 90 da LC 214/2025",
+      "fonte": "Portal NF-e / SVRS"
+    },
+    {
+      "cst": "550",
+      "cClassTrib": "550028",
+      "descricao": "Regime de admissão temporária com suspensão.",
+      "dfe": "DUIMP",
+      "fundamento": "Art. 90 da LC 214/2025",
+      "fonte": "Portal NF-e / SVRS"
+    },
+    {
+      "cst": "550",
+      "cClassTrib": "550029",
+      "descricao": "Operação vinculada a Zona de Processamento de Exportação com suspensão.",
+      "dfe": "DUIMP",
+      "fundamento": "Art. 102 da LC 214/2025",
+      "fonte": "Portal NF-e / SVRS"
+    }
+  ]
+}

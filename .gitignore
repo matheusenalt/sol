@@ -1,0 +1,38 @@
+# Arquivos locais e privados
+.env
+.env.*
+!.env.example
+*.db
+*.sqlite
+*.sqlite3
+*.log
+*.bak
+*.tmp
+*.part
+*.key
+*.p12
+*.pfx
+*.pem
+*.p8
+*.p7b
+# Artefatos de compilação e instaladores
+*.exe
+*.msi
+*.msix
+*.dmg
+*.AppImage
+*.zip
+release/
+dist/
+build/
+target/
+node_modules/
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+# Arquivos de IDE e sistema
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

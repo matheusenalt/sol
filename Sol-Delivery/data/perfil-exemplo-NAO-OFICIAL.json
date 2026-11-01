@@ -1,0 +1,11 @@
+{
+  "ATENCAO": "EXEMPLO GENERICO. NAO E UM MODELO DE NENHUMA PLATAFORMA. SUBSTITUA PELO MODELO OFICIAL ANTES DE USAR.",
+  "colunas": {
+    "Nome do produto": "nome",
+    "Descrição do produto": "descricao",
+    "Preço": "preco",
+    "Categoria": "categoria",
+    "Nome arquivo de imagem": "arquivo_imagem",
+    "Acréscimos": "acrescimos"
+  }
+}

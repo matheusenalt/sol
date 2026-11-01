@@ -1,0 +1,14 @@
+.venv/
+build/
+dist/
+release/
+output/
+logs/
+__pycache__/
+.pytest_cache/
+*.pyc
+*.db
+*.sqlite
+*.sqlite3
+*.spec
+*.traineddata

@@ -1,0 +1,7 @@
+{
+  "metadata": {
+    "version": "0.1",
+    "note": "Somente regras fiscalmente revisadas devem entrar aqui. O Sol Core não cria vínculos NCM → cClassTrib sem regra explícita e fundamento registrado."
+  },
+  "rules": []
+}

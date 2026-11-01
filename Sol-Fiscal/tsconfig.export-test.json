@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "target": "ES2022",
+    "module": "ES2022",
+    "moduleResolution": "Bundler",
+    "strict": true,
+    "skipLibCheck": true,
+    "resolveJsonModule": true,
+    "outDir": ".export-test"
+  },
+  "include": ["src/exports/cervantes.ts", "src/exports/fiscal-rows.ts", "src/core/types.ts", "src/core/normalize.ts"]
+}

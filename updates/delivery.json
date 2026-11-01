@@ -1,0 +1,10 @@
+{
+  "schema": 1,
+  "component": "delivery",
+  "latest_version": "1.0.0",
+  "tag": "delivery-v1.0.0",
+  "asset_name": "Sol Delivery Setup.exe",
+  "sha256": "ae2aff42ba5dc63f3fc305e66fb1d2364d864d1d3eac0078b5da65f6281873cb",
+  "notes": "Versão inicial pública do Sol Delivery, com organização de cardápios e atualizações via GitHub Releases.",
+  "published": false
+}
