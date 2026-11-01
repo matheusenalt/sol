@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="Sol-Fiscal/public/brand/sol-logo-yellow.png" alt="Sol — marca oficial" width="142" />
+  <img src="docs/logo.png" alt="Sol — marca oficial" width="142" />
 
   # Sol
 
